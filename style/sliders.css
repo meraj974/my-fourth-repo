@@ -1,0 +1,12 @@
+img {
+    width: 100px;
+    border: 2px solid;
+    border-color: tomato;
+    border-radius: 5px;
+    box-shadow: 10px;
+}
+.high{
+    background-color:  rgb(206, 186, 13);
+    width: 180px;
+    box-shadow: 20px;
+}
