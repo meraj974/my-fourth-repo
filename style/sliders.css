@@ -13,6 +13,11 @@ img {
 .lorem{
     background-color: brown;
     width: 200px;
+    border: 5px solid;
+    background-color: rgb(224, 106, 9);
+    box-shadow: 20px;
+    border-radius: 5px;
+    padding: 8px;
 }
 #l{
     font-size: larger;
